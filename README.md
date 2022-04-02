@@ -1,5 +1,5 @@
 this a chrome extension that saves the the current browser url to the localstorage and can have as many urls as possible 
-it is used mostly br digital marketers 
+it is used mostly by digital marketers 
 
 
 
